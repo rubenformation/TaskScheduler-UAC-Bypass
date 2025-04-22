@@ -48,3 +48,9 @@ Along the same lines, after elevating from a medium to a high integrity, it is n
 
 But to remediate it, we can elevate our privileges to high with the previously mentioned UAC bypass by creating a temporary task, which then creates our SYSTEM main task from inside (see before, Elevate to SYSTEM).
 
+<br>
+
+#### Notes
+<br>
+This code is for educational and research purposes only.<br>
+The author takes no responsibility for any misuse of this code.
